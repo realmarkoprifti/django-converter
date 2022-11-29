@@ -9,13 +9,16 @@ h1{
     color: rgb(255, 255, 255);
     margin-bottom: 0px !important;
 }
-
 .label1{
     text-align: center;
     background-color: #FFAE00;
     padding: 10px;
     color:black;
 
+}
+
+h3 {
+    margin-left: 20px;
 }
 
 form{
@@ -29,6 +32,10 @@ form{
 
 b{
     font-size: 20px
+}
+
+input[type='submit'] {
+    margin-top: 15px;
 }
 
 input[type='button']{
